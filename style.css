@@ -1,0 +1,14 @@
+.navigatie{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: large;
+}
+
+.wrapper{
+    align-items: center;
+}
+
+.html{
+    background-image: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rick-astley-1-1552336336.png;
+}
